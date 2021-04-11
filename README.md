@@ -1,2 +1,2 @@
-# isl
-Labs for *An Introduction to Statistical Learning* textbook. The textbook is available for free at https://www.statlearning.com/. The authors suggest doing the labs in R; I am doing them in Python. Datasets, converted from R format to CSV, are taken from [this repository](https://github.com/dsnair/ISLR/tree/master/data).
+# Introduction to Statistical Learning
+Execises for *An Introduction to Statistical Learning* textbook. The textbook is available for free at https://www.statlearning.com/. The authors suggest doing the labs in R; I am doing them in Python. Datasets, converted from R format to CSV, are taken from [this repository](https://github.com/dsnair/ISLR/tree/master/data).
